@@ -1,0 +1,7 @@
+[
+  { "id": 1, "toDo": "support", "status": false },
+  { "id": 2, "toDo": "even-keeled", "status": true },
+  { "id": 3, "toDo": "adapter", "status": false },
+  { "id": 4, "toDo": "foreground", "status": false },
+  { "id": 5, "toDo": "multi-state", "status": true }
+]
